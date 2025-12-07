@@ -6,4 +6,5 @@ Date: xx July 2026
 Venue: xx
 
 See you there!
+
 <img width="63" height="60" alt="home" src="https://github.com/user-attachments/assets/796077eb-9f6c-4446-a6f6-1ca7cffde2ad" />
